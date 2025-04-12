@@ -1,0 +1,5 @@
+Alice: 18
+Bob: 15
+Charlie: 20
+Diana: 12
+Bernardus: 20

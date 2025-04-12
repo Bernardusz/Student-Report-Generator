@@ -1,0 +1,52 @@
+{
+  "Alice": {
+    "math": "90",
+    "english": "85",
+    "science": "88",
+    "missing_grades": false,
+    "average_grades": 87.67,
+    "attendance_percent": 90.0,
+    "attendance": 18,
+    "low_attendance": false,
+    "activity_points": 10
+  },
+  "Bob": {
+    "math": "78",
+    "english": "74",
+    "science": "80",
+    "missing_grades": false,
+    "average_grades": 77.33,
+    "attendance_percent": 75.0,
+    "attendance": 15,
+    "low_attendance": false,
+    "activity_points": 6
+  },
+  "Charlie": {
+    "math": "92",
+    "english": "91",
+    "science": "89",
+    "missing_grades": false,
+    "average_grades": 90.67,
+    "attendance_percent": 100.0,
+    "attendance": 20,
+    "low_attendance": false,
+    "activity_points": 12
+  },
+  "Bernardus": {
+    "math": "100",
+    "english": "99",
+    "science": "98",
+    "missing_grades": false,
+    "average_grades": 99.0,
+    "attendance_percent": 100.0,
+    "attendance": 20,
+    "low_attendance": false,
+    "activity_points": 20
+  },
+  "Diana": {
+    "absence": false,
+    "attendance_percent": 60.0,
+    "attendance": 12,
+    "low_attendance": true
+  }
+}
