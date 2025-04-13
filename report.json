@@ -43,6 +43,17 @@
     "low_attendance": false,
     "activity_points": 20
   },
+  "Stanislaus": {
+    "math": "100",
+    "english": "98",
+    "science": "99",
+    "missing_grades": false,
+    "average_grades": 99.0,
+    "attendance_percent": 100.0,
+    "attendance": 20,
+    "low_attendance": false,
+    "activity_points": 20
+  },
   "Diana": {
     "absence": false,
     "attendance_percent": 60.0,

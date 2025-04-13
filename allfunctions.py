@@ -1,5 +1,6 @@
 import json
 import csv
+import time
 
 listofstudent = []
 completedata = {}
@@ -86,3 +87,25 @@ def input_data(name, math, english, science, attendance, activity_points):
     with open("activities.json", "w") as f:
         json.dump(data, f, indent=4)
 
+def processing():
+    print("Processing Students name...")
+    read_students("students.txt")
+    time.sleep(3)
+
+    print("Processing grades...")
+    read_grades("grades.csv")
+    time.sleep(3)
+
+    print("Processing attendance...")
+    read_attendance("attendance.txt")
+    time.sleep(3)
+
+    print("processing activity points...")
+    read_activity("activities.json")
+    time.sleep(3)
+
+    print("Inputting data...")
+    time.sleep(5)
+    write_report("report.json", completedata)
+        
+    print("Finished ! You now may look at report.json !")

@@ -3,3 +3,4 @@ Bob: 15
 Charlie: 20
 Diana: 12
 Bernardus: 20
+Stanislaus: 20

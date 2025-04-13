@@ -3,3 +3,4 @@ Bob
 Charlie
 Diana
 Bernardus
+Stanislaus
